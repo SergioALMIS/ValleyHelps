@@ -1,0 +1,7 @@
+streamlit
+pandas
+openai
+requests
+PyPDF2
+SpeechRecognition
+PyMuPDF
