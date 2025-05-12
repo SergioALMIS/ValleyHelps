@@ -5,3 +5,4 @@ requests
 PyPDF2
 SpeechRecognition
 PyMuPDF
+PyAudio
